@@ -3,8 +3,6 @@
 Claude.aiの使用量をリアルタイムで確認できるWindowsデスクトップアプリです。  
 Chrome拡張機能は不要で、単体で動作します。
 
-![screenshot](docs/screenshot.png)
-
 ---
 
 ## 機能
