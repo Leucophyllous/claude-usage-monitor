@@ -29,7 +29,7 @@ Chrome拡張機能は不要で、単体で動作します。
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-usage-monitor.git
+git clone https://github.com/Leucophyllous/claude-usage-monitor.git
 cd claude-usage-monitor/app
 ```
 
